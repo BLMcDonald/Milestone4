@@ -1,14 +1,11 @@
 body {
-    font-family: Arial;
-    padding-top: 100px;
+    font-family: Helvetica;
+    padding-top: 70px;
+    background-color: #F5F5F5
 }
 
-footer {
-    margin-top: 40px;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    border-top: 1px solid #ededed;
-    color: #A9A9A9;
+h3 {
+    color: #000000;
 }
 
 .icon-bar {
@@ -45,6 +42,10 @@ caption p {
     word-wrap: break-word;
 }
 
+.caption {
+    background-color: #F5F5F5;
+}
+
 .row.row-flex {
     display: flex;
     flex-wrap: wrap;
@@ -53,12 +54,12 @@ caption p {
 
 .panel-default {
     border-color: transparent;
-    padding: 0 10px;
+    padding: 0 0px;
 }
 
 .panel-body {
     height: 100%;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
 }
 
 .product-description {
