@@ -1,14 +1,24 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Brett McDonald Milestone Project 4
+## UX
+My goal was to make the website easy to use and accessible to the user
+## Technologies
+1. HTML
+2. CSS
+3. Python
+4. Django
+5. Stripe - stripe.com
+6. Javascript
+7. jQuery
+8. Bootstrap - https://getbootstrap.com/
+9. Postgres
 
+## Features
+Users can create accounts. Users can buy items from the store. 
 
-Hi there! Welcome to AWS Cloud9!
+## Testing
+This site was manually tested to make sure everything functioned correctly
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## Deployment
+The site is deployed on Heroku. It gets updated whenever the master branch on heroku is updated
 
-Happy coding!
+## Sources
